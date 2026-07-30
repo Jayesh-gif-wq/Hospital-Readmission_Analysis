@@ -33,3 +33,6 @@ Hospital Readmission Dataset (Diabetes 130-US Hospitals)
 - XGBoost
 - Feature Engineering
 - Hyperparameter Tuning
+
+## Power BI Dashboard
+![Hospital Readmission Dashboard](Image/Hospital_Readmission_Analysis Dashboard.png)
