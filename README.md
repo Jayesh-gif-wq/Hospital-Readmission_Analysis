@@ -35,4 +35,4 @@ Hospital Readmission Dataset (Diabetes 130-US Hospitals)
 - Hyperparameter Tuning
 
 ## Power BI Dashboard
-![Hospital Readmission Dashboard](Image/Hospital_Readmission_Analysis Dashboard.png)
+![Hospital Readmission Dashboard](Image/Hospital_Readmission_Dashboard.png)
